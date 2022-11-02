@@ -5,9 +5,8 @@ Stan Smoczyk
 Stansmoczyk@gmail.com  
 https://github.com/stansmoczyk  
 Objective  
-Looking for a software developer position. Detail-oriented IT professional  
-with over ten plus years of experience as a software support specialist and  
-systems/network technician.  
+I am a detail-oriented IT professional with ten plus years of experience with software support  
+and systems/network Administration looking for a software developer position.    
 Skills and Qualifications   
 JavaScript, CSS, HTML, WordPress, React, Angular, Node.js, Flexbox, CSS Grid, Front-end  
 Web Development, PHP, .Net, C#, C++, C, MVC, Java, Python, Linux, Software testing,  
