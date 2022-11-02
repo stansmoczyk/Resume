@@ -14,7 +14,7 @@ Scrum, Git, Github
 Certifications: AZ900, Network+  
 Education  
 12/2021  
-Hillsborough Comunity College, Tampa, FL  
+Hillsborough Community College, Tampa, FL  
 Associates of Science Computer Programming and Analysis  
 Experience  
 04/2005 to  
