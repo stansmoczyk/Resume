@@ -5,20 +5,31 @@ Stan Smoczyk
 Stansmoczyk@gmail.com  
 https://github.com/stansmoczyk  
 Objective  
-I am a detail-oriented IT professional with ten plus years of experience with software support  
-and systems/network Administration looking for a software developer position.    
+Experienced IT professional, with an Associate in Science degree in Computer Programming and  
+Analysis, that has strong communication and delegation skills to work effectively in diverse teams.  
 Skills and Qualifications   
 JavaScript, CSS, HTML, WordPress, React, Angular, Node.js, Flexbox, CSS Grid, Front-end  
 Web Development, PHP, .Net, C#, C++, C, MVC, Java, Python, Linux, Software testing,  
 Scrum, Git, Github  
-Certifications: AZ900, Network+  
+Certifications: SC900, AZ900, Network+, (ISC)2 Certified in Cybersecurity  
 Education  
 12/2021  
 Hillsborough Community College, Tampa, FL  
 Associates of Science Computer Programming and Analysis  
 Experience  
-04/2005 to  
-PresentFreelance Consultant  
+AUG 2019 – PRESENT
+SKILL BUILDING  
+Completed Associates Degree in Science Computer Programming and Analysis (2021). Obtained  
+certifications for Microsoft AZ-900(2021) and SC-900(2022) along with (ISC)2 Certified in  
+Cybersecurity (2022). Currently training with home lab to improve programming and  
+cybersecurity skills and knowledge.  
+JAN 2009 – PRESENT  
+STAY AT HOME FATHER  
+Primary care giver for wheelchair bound epileptic young adult. Scheduled doctor and therapy  
+visits and provided transportation on regular basis. Provided detailed notes and communication  
+about care for patient to doctors and nurses to facilitate best health care results for patient.  
+Operate and maintain durable medical equipment and electronics with the latest firmware and  
+hardware repairs as needed.  
 05/2007 to  
 01/2009LAN Administrator  
 Freelance consultant work for various companies and individuals.  
